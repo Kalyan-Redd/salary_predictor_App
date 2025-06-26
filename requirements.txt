@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+
+
+# conda create --name salary_env python=3.11
+# conda activate salary_env
+
+# conda create -p venv python==3.11 -y
+# conda activate venv/
+# pip install -r requirements.txt
+# pip install ipykernel
